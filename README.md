@@ -1,3 +1,5 @@
 # Project 1: SQL
 
-This project is due on **Thursday, 2/2/2023 at 11:59PM PDT (GMT-8)**. Follow the instructions [here](https://cs186.gitbook.io/project/assignments/proj1) to get started.
+In this project I will be working with the commonly-used Lahman baseball statistics database and create SQL queries related to it.
+
+Full instructions [here](https://cs186.gitbook.io/project/assignments/proj1)
